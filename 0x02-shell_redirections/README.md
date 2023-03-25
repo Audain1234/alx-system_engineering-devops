@@ -1,3 +1,1 @@
-#!/bin/bash
-echo 'Hello, World'
-
+A project for 0x02-shell_redirections
